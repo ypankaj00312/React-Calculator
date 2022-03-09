@@ -1,0 +1,11 @@
+.Container{
+   
+    
+    width : 30vw;
+    height: 80vh;
+    border: 2px solid;
+    border-radius: 30px;
+    display:flex;
+    margin-left:35vw;
+    margin-top:10vh;
+}
